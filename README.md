@@ -20,7 +20,11 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/takt0dev/guiqrmdev/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guiqrmdev/guiqrmdev/gh-pages/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guiqrmdev/guiqrmdev/gh-pages/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/guiqrmdev/guiqrmdev/gh-pages/github-contribution-grid-snake.svg" />
+</picture>
 
 ###
 
