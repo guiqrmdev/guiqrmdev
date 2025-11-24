@@ -10,10 +10,6 @@
 
 ###
 
-<img align="right" height="200" src="https://i.imgflip.com/a0dijh.gif"  />
-
-###
-
 <h4 align="left">Sou um Analista de Cibersegurança Jr em formação pela Cisco Networking Academy, formado em Análise e Desenvolvimento de Sistemas pela Universidade Santa Cecília, tenho focado em reconhecimento e resposta à ameaças e ataques cibernéticos, além de desenvolver com base no desenvolvimento seguro.<br><br>Tenho grande interesse e foco em Threat Hunting, Ethical Hacking, Hardening de sistemas e Contrainteligência Cibernética, busco me tornar um profissional completo de Purple Team.</h4>
 
 ###
