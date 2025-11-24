@@ -1,8 +1,8 @@
-<h1 align="left">👻E aí, tranquilo? Sou o Guilherme!<br>      (ou Takt0)</h1>
+<h1 align="left"> E aí, tranquilo? Sou o Guilherme!<br> </h1>
 
 ###
 
-<h4 align="left">🎯 Formando de Análise e Desenvolvimento de Sistemas | Pivotando para InfoSec<br>📚 Explorando fundamentos sólidos, práticas ofensivas/defensivas e segurança real no dia a dia.</h4>
+<h4 align="left"> Formado de Análise e Desenvolvimento de Sistemas | Dando ênfase em Cybersecurity<br>📚 Explorando fundamentos, práticas ofensivas/defensivas e segurança no mundo tecnológico.</h4>
 
 ###
 
@@ -81,7 +81,7 @@
 
 ###
 
-<h4 align="left">Project Fit: app de treino e dieta com IA, feito com React e Python, onde aplico práticas reais de segurança desde o planejamento à entrega;<br><br>CyberAges: iniciativa social de educação digital e conscientização sobre tecnologia e segurança, voltada à inclusão e à proteção das pessoas online.</h4>
+<h4 align="left">Project Fit: app de treino e dieta com IA, feito com React e Python, onde pude aplicar conhecimento de cibersegurança no desenvolvimento;<br><br>CyberAges: iniciativa social de educação digital e conscientização sobre tecnologia e segurança, voltada à inclusão e à proteção das pessoas online.</h4>
 
 ###
 
