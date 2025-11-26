@@ -30,9 +30,8 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=guiqrmdev&locale=pt-br&mode=daily&theme=gotham&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=guiqrmdev&theme=tokyonight&column=5&row=3&no-bg=true&no-frame=true" height="150" alt="trophy graph"  />
 </div>
 
 ###
